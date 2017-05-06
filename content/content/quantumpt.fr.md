@@ -9,4 +9,4 @@ de connection internet**.
 
 Plusieurs applications ayant le même but existent de nos jours alors pourquoi en développer une semblable ?
 
-Je voulais simplement créer une application complètement **gratuite (sans pub)**, **portable**, et **bien designée**.
+Je voulais simplement créer une application complètement **open-source ([code disponible](https://github.com/QuantumPrayerTimes/quantumpt))**, **gratuite (sans pub)**, **portable**, et **bien designée**.
