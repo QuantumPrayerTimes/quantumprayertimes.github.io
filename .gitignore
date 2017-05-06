@@ -1,0 +1,8 @@
+# Folders
+.idea
+public
+
+# Files
+*.exe
+*.sh
+*.bat
